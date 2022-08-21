@@ -1,5 +1,5 @@
 # React-Movies<img align="center" alt="React Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-This is a React project that I made to improve my skills.
+This is a ReactJS project that I made to improve my skills.
   <br>
   <div align="left">
   <img align="center" alt="React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
