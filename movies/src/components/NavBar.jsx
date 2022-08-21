@@ -3,6 +3,8 @@ import { Link } from 'react-router-dom'
 import { FiSearch } from 'react-icons/fi'
 import { BsFillCameraReelsFill } from 'react-icons/bs'
 
+import './css/NavBar.css'
+
 const NavBar = () => {
   return (
     <nav id="NavBar">

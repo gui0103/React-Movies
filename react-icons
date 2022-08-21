@@ -2,3 +2,4 @@ react-icons docs: https://react-icons.github.io/react-icons
 
 Search Icon:        import { FiSearch } from 'react-icons/fi'
 Cinema Camera Icon: import { BsFillCameraReelsFill } from 'react-icons/bs'
+Star Icon:          import { IoStar } from 'react-icons/io5'
