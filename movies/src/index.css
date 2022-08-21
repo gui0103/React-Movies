@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Poppins-Bold';
+    src: url(./fonts/Poppins-Bold.ttf);
+ }
+
+ @font-face {
+    font-family: 'Poppins-Medium';
+    src: url(./fonts/Poppins-Medium.ttf);
+ }
+
+ * {
+    font-family: 'Poppins-Bold';
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-color: rgb(20, 20, 20);
+  }
+  
+  a {
+    text-decoration: none;
+    color: #f75454;
+    transition: 0.5s;
+  }
+  
+  a:hover {
+    color: #b40303;
+  }
