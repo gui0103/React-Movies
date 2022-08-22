@@ -1,0 +1,19 @@
+To run this project, follow the steps:
+
+-Open the folder on a terminal
+
+-Run the command "cd movies"
+
+-Run the command "npm install"
+
+-Run the command "npm run dev"
+
+-You will see a message like this:
+
+  VITE v3.0.9  ready in 753 ms
+
+  ➜  Local:   http://127.0.0.1:5173/
+  ➜  Network: use --host to expose
+
+-Open the LocalHost indicated on your browser.
+In this example, you would type "http://127.0.0.1:5173/" on your browser
