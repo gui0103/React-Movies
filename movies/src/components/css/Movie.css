@@ -1,9 +1,40 @@
-.movie-page {
+  .movie-page {
     color: #fff;
-    display: grid;
-    flex-direction: column;
-    max-width: 600px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
     margin: 2rem auto;
+    gap: 5%;
+  }
+
+  .div-content {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    margin-right: 2rem;
+  }
+
+  .movie-card {
+    width: 30%;
+    margin-left: 2rem;
+  }
+
+  .movie-card img {
+    width: 100%;
+  }
+
+  .div-main-info {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .rateText {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.2rem;
   }
   
   .movie-page svg {
@@ -33,9 +64,8 @@
   }
   
   .tagline {
-    text-align: center;
     font-size: 1.3rem;
-    margin-bottom: 2rem;
+    margin-bottom: 1.5rem;
   }
   
   .info {
