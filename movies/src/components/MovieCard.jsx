@@ -10,9 +10,9 @@ const MovieCard = ({movie, showLink = true}) => {
     <div className='movie-card'>
         <img src={imageURL + movie.poster_path} alt={movie.title} />
         <h2>{movie.title}</h2>
-        <p>
+        <p className='rateText'>
             <IoStar />
-            {movie.vote_avarage}
+            <h4>{movie.vote_average}</h4>
         </p>
         {showLink && <Link to={`/movie/${movie.id}`}>Details</Link>}
     </div>

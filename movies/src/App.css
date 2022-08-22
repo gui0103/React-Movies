@@ -1,0 +1,11 @@
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+    background-color: #101010;
+  }
+  
+  /* Adiciona a barra arrastável */
+  ::-webkit-scrollbar-thumb {
+      background: rgba(98, 98, 98, 0.202);
+      border-radius: 4px;
+  }

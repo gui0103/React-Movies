@@ -39,6 +39,18 @@
   .movies-container div p {
     margin-bottom: 1rem;
   }
+
+  .movies-container div p h4{
+    font-size: 0.8rem;
+    text-decoration: none;
+    margin: 0px 0px 0px 5px;
+    padding: 0;
+  }
+
+  .rateText {
+    display: flex;
+    align-items: flex-start;
+  }
   
   .movies-container div h2 {
     margin-bottom: 1.5rem;
