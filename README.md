@@ -4,7 +4,7 @@ search for movies and read informations about them. <br> <br>
 This is a ReactJS project that I made to improve my skills. <br>
 Notice that this React Application has an integration <br>
 with The Movie Database (TMDB) API. <br>
-You can check the API here: https://developers.themoviedb.org/<br> <br>
+You can check the API here: https://developers.themoviedb.org/<br>
   <br>
   <div align="left">
   <img align="center" alt="React" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
