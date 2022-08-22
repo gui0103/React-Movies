@@ -1,6 +1,6 @@
 # React-Movies<img align="center" alt="React Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-React Movies is a platform where you can see which are the top rated movies, <br>
-search for movies and read informations about them. <br> <br>
+React Movies is a platform where you can see which are the top-rated movies, <br>
+search for movies and read information about them. <br> <br>
 This is a ReactJS project that I made to improve my skills. <br>
 Notice that this React Application has an integration <br>
 with The Movie Database (TMDB) API. <br>
